@@ -1,0 +1,11 @@
+1. **Task** , belleğe yüklenen bir dizi program talimatından ibarettir. ​Async programlama ile daha sıklıkla kullanılan Task yapısı thread yapısına göre üst seviyededir.
+
+Bkz. [https://www.c-sharpcorner.com/article/task-and-thread-in-c-sharp/#:~:text=Differences%20Between%20Task%20And%20Thread,-Here%20are%20some&amp;text=The%20Thread%20class%20is%20used%20for%20creating%20and%20manipulating%20a,tasks%20asynchronously%20and%20in%20parallel.&amp;text=Threads%20can%20only%20have%20one%20task%20running%20at%20a%20time](https://www.c-sharpcorner.com/article/task-and-thread-in-c-sharp/#:~:text=Differences%20Between%20Task%20And%20Thread,-Here%20are%20some&amp;text=The%20Thread%20class%20is%20used%20for%20creating%20and%20manipulating%20a,tasks%20asynchronously%20and%20in%20parallel.&amp;text=Threads%20can%20only%20have%20one%20task%20running%20at%20a%20time)
+
+**Thread** , bir program sayacı, bir yığın ve bir dizi kayıttan oluşan temel bir CPU kullanım birimidir. Bir yürütme iş parçacığı, bir bilgisayar programının çatalından aynı anda çalışan iki veya daha fazla göreve neden olur. İş parçacıklarının ve işlemlerin uygulanması bir işletim sisteminden diğerine farklılık gösterir, ancak çoğu durumda bir işlem içinde bir iş parçacığı bulunur.
+
+**Process** , yürütülmekte olan bir bilgisayar programının bir örneğidir. Program kodunu ve geçerli etkinliğini içerir. İşletim sistemine (OS) bağlı olarak, talimatları eşzamanlı olarak yürüten birden çok yürütme iş parçacığından oluşabilir.
+
+1. **Extension** metodlar genişletebilir metodlardır. C# 3.0 ile hayatımıza giriş yapmıştır. Yaptığı iş itibari ile kullanım açısından son derece faydalı metodlardır.​ Class ve struct yapılarını modify etmeden ilgili struct ya da class için extension metodlar eklememize olanak verir.
+
+**Extension Paket Yükleme** Uzatma Paketi, birlikte yüklenebilen bir uzantı kümesidir. Uzantı Paketleri, en sevdiğiniz uzantıları diğer kullanıcılarla kolayca paylaşmanızı veya belirli bir senaryo için bir dizi uzantıyı bir araya toplamanızı sağlar.
